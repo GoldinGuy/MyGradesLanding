@@ -280,6 +280,19 @@ a:hover {
 		margin-left: 0;
 		margin-bottom: 30px;
 	}
+
+	h2 {
+		font-size: 35px;
+		line-height: 50px;
+	}
+
+	.subheader-lg {
+		font-size: 22px !important;
+	}
+
+	.center-content {
+		text-align: center !important;
+	}
 }
 
 .right {
@@ -314,6 +327,10 @@ a:hover {
 	font-size: 14px;
 	background: #fff;
 	color: #5dca88;
+}
+
+.subheader-lg {
+	font-size: 25px;
 }
 
 .color-green {
