@@ -3,9 +3,9 @@
 
 	$(submit).click(function () {
 		window.location.href =
-			"mailto:gspam275@gmail.com?subject=" +
+			"mailto:support@mygrades.app?subject=" +
 			encodeURI(
-				"PearDrop Inquiry: " + document.getElementById("subject_field").value
+				"MyGrades Inquiry: " + document.getElementById("subject_field").value
 			) +
 			"&body=" +
 			encodeURI(document.getElementById("message_field").value) +
